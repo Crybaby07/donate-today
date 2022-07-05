@@ -35,6 +35,7 @@ body{
 
 .sec-b{
     text-align: center;
+    color: #343a40;
 }
 
 .donate{
@@ -72,3 +73,86 @@ input{
     margin-bottom: 30px;
 }
 
+
+.sec-c{
+    text-align: center;
+    margin-top: 100px;
+    color: #343a40;
+}
+ 
+.ourwork{
+    display: flex;
+    width: 100%;
+}
+
+.planfood{
+    box-shadow: 10px 10px 40px gray;
+    padding: 70px;
+    margin: 50px;
+    text-align: center;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-radius: 20px;
+    background-color: #90e0ef;
+}
+
+.planhome{
+    box-shadow: 10px 10px 40px gray;
+    padding: 70px;
+    margin: 50px;
+    text-align: center;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-radius: 20px;
+    background-color: #f7cad0;
+}
+
+.planeducation{
+    box-shadow: 10px 10px 40px gray;
+    padding: 70px;
+    margin: 50px;
+    text-align: center;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-radius: 20px;
+    background-color: #cbf3f0;
+}
+
+
+.sec-d{
+    display: flex;
+    margin:100px 0 100px 0;
+    width: 100%;
+    border-top:1px solid gray;
+    border-bottom: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px #343a40;
+    background-image: url(images/banner2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffff;
+
+}
+.sec-d p{
+    margin-bottom: 40px;
+}
+
+.buttonLearn{
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+    background-color: #fe6053;
+    border-radius: 7px;
+    font-weight: 500;
+}
+
+.sec-d img{
+    width: 100%;
+    
+}
+
+.worldwide{
+    
+    padding-left: 15%;
+    padding-top: 10%;
+}
