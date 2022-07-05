@@ -1,0 +1,74 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+    margin: 0;
+    
+}
+
+.sec-a{
+    text-align: center;
+    background-image: url(images/banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 340px;
+    color: white;
+    margin-bottom: 100px;
+}
+
+.headline{
+    font-size: 70px;
+}
+
+.quote{
+    margin-bottom: 50px;
+}
+
+.button{
+    text-decoration: none;
+    padding: 20px;
+    margin: 200px;
+    color: white;
+    background-color: #fe6053;
+    border-radius: 7px;
+    font-weight: 500;
+} 
+
+
+.sec-b{
+    text-align: center;
+}
+
+.donate{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.amount{
+    display: flex;
+    margin-left: 33%;
+} 
+
+h5{
+    font-size: 20px;
+    background-color: #ebebeb;
+    padding: 35px 25px;
+    margin: 10px;
+    border-radius: 7px;
+}
+
+.amountstyle{
+    background-color: #f79d84;
+    border: 3px solid #ed6a5e;
+}
+
+input{
+     margin-top: 50px;
+     padding:10px 100px;
+     text-align: center;
+     border: 0;
+     border-bottom: 1px solid gray;
+     
+}
+.taka{
+    margin-bottom: 30px;
+}
+
